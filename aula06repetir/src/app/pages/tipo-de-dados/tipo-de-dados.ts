@@ -18,7 +18,7 @@ export class TipoDeDados implements OnInit {
   localNull2!: null;
   localUndefined: undefined = undefined;
   localUndefined2!: undefined;
-  localobjecto = {nome: 'Tony', endereço: 'rua....', numero: 10, admin: false};
+  localobjecto = {nome: 'Tony', endereço: 'rua....', numero: 10, admin: false, lado: 'esquerdo'};
   localobjecto2: meuobjeto = {nome: 'Tony', endereco: 'rua....', numero: 10, admin: false,};
 
   /** tipo de dados assyncronos */
